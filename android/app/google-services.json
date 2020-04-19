@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494993668290",
+    "firebase_url": "https://brews-and-beans.firebaseio.com",
+    "project_id": "brews-and-beans",
+    "storage_bucket": "brews-and-beans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494993668290:android:4e3e9854595d490105235b",
+        "android_client_info": {
+          "package_name": "com.nosowsky.brews_and_beans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494993668290-0np5j371qmi2rj0jopiujv12kicot6d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh7j_2s6JsfaQrgnVHRvswh0Q2owPXQug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494993668290-0np5j371qmi2rj0jopiujv12kicot6d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
