@@ -1,4 +1,5 @@
 import 'package:coffee_brew/models/brew.dart';
+import 'package:coffee_brew/screens/home/settings_form.dart';
 import 'package:coffee_brew/services/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:coffee_brew/services/database.dart';
@@ -16,7 +17,7 @@ class Home extends StatelessWidget {
       showModalBottomSheet(context: context, builder: (context) {
         return Container (
           padding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 60.0),
-          child: Text('bottom sheet'),
+          child: SettingsForm(),
         );
       });
     }
